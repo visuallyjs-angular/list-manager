@@ -8,8 +8,9 @@
     outline:1px solid;
 }
 
-
-
+vjs-surface {
+  height:100%;
+}
 
 .vjs-lm-group {
     background-color: #fcfcfc;
